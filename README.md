@@ -1,6 +1,6 @@
 # face-recognition-pipeline
 How Amazon Prime Video can provide you actors’ information whenever you hit pause during a show?
-Let's go through a step by step description of a procedure to tag the face of every person who appears in a video. Explore the theory and the coding behind this uncanny ability by the **face-recognition-pipeline.ipynb** Jupyter Notebook.
+Let's go through a step by step description of a procedure to tag the face of every person who appears in a video. Explore the theory and the coding behind this uncanny ability by the [**face-recognition-pipeline.ipynb**](https://github.com/elenagiarratano/face-recognition-pipeline/blob/master/face-recognition-pipeline.ipynb) Jupyter Notebook.
 
 ## Requirements
 All you need is stored in the **python-venv** folder and explained in detail in the **Settings.xlsx** document.
